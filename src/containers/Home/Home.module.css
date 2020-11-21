@@ -1,0 +1,11 @@
+.verticalCenter {
+  min-height: 30vh;
+  display: flex;
+  background-color: #fa4659;
+}
+
+.verticalCenterAlt {
+  min-height: 65vh;
+  display: flex;
+  background-color: #fff;
+}
